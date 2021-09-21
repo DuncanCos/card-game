@@ -1,12 +1,16 @@
 #include <iostream>
+#include "include/c_carte.h"
 
 using namespace std;
 
 int main()
 {
-int p = 123;
-    while(p==p){
+
+    c_carte card();
+    card.setForme(c_carte::CARREAU);
+    int sal = 0;
+    sal =5;
+    cout << sal;
     cout << "Hello world!" << endl;
-    }
     return 0;
 }
