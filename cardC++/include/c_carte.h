@@ -14,7 +14,7 @@ class c_carte
         bool setCarte(short v, forme f);
         short getValeur();
         short getForme();
-        c_carte operator=(const c_carte &c);
+        void operator=(const c_carte &c);
 
 
     private:

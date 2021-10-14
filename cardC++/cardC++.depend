@@ -1,14 +1,19 @@
 # depslib dependency file v1.0
-1632140929 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\main.cpp
+1634203232 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\main.cpp
 	<iostream>
+	"c_carte.h"
+	"c_jeuDeCartes.h"
+	<random>
 
-1632148994 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\src\c_carte.cpp
+1633354573 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\src\c_carte.cpp
 	"c_carte.h"
 
-1632141645 c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\include\c_carte.h
+1633346397 c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\include\c_carte.h
 
-1632146854 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\src\c_jeudecartes.cpp
+1634203278 source:c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\src\c_jeudecartes.cpp
 	"c_jeuDeCartes.h"
+	<iostream>
+	<random>
 
 1632147411 c:\users\foxlo\onedrive\documents\code\c++\card-game-main\cardc++\include\c_jeudecartes.h
 	<c_carte.h>
